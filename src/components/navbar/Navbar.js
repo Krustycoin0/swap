@@ -10,7 +10,7 @@ const Navbar = () => {
           <img src={logo1} alt="logo" />
         </div>
         <div className="per__header-content">
-          <h1 className="gradient__text">Lisprocoin Bridge</h1>
+          <h1 className="gradient__text">Krusty dex</h1>
         </div>
       </div>
     </div>
